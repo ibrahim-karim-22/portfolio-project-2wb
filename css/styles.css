@@ -25,15 +25,16 @@ h1 {
 .navi {
     font-style: normal;
     color: bisque;
-    background-color: bisque;
+
 }
 .homebutt {
-    color: aqua;
-    background-color: blue;
+    font-style: normal;
+    font-size:300%;
+    
 }
 .googlebutt {
-    color:aquamarine;
-    background-color: blue;
+    font-style:normal;
+    font-size: 300%
 }
 .navbar-toggler-icon {
     background-color: rgb(112, 125, 182);
