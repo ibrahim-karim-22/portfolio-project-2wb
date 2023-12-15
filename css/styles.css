@@ -1,19 +1,46 @@
 body {
-    background-color:whitesmoke;
+    background-color:rgb(145, 143, 143);
+}
+.top-section {
+    background-color: rgb(109, 109, 109);
 }
 h1 {
-    padding: 22px;
-    font-family: 'Bebas Neue', sans-serif;
-    color: rgb(255, 255, 255);
-    font-size: 55px;
+    padding: auto;
+    font-family: 'Afacad', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 200%;
     font-style: normal;
-    font-weight:500;
+    text-shadow: rgb(255, 255, 255) 2px 2px;
 }
 .smiley {
-    padding:0px;
-    margin: 11px;
+    padding:auto;
+    margin: auto;
+    font-size: 55%;
+    color: rgb(255, 238, 0);
+    text-shadow: rgb(0, 17, 255) 1px 2px;
 }
-nav {
-    font-size: x-large;
-    color: red;
+.nav-container {
+    background-color: rgb(255, 255, 255);
 }
+.navi {
+    font-style: normal;
+    color: bisque;
+    background-color: bisque;
+}
+.homebutt {
+    color: aqua;
+    background-color: blue;
+}
+.googlebutt {
+    color:aquamarine;
+    background-color: blue;
+}
+.navbar-toggler-icon {
+    background-color: rgb(112, 125, 182);
+}
+.navbar-toggler {
+    background-color: rgb(192, 208, 221);
+}
+.butt {
+    background-color: transparent;
+  }
