@@ -1,6 +1,19 @@
-.navbar {
-    background-color: rgb(168, 192, 214);
+body {
+    background-color:whitesmoke;
 }
-.row-content {
-                background-color: bisque;
+h1 {
+    padding: 22px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    font-style: normal;
+    font-weight:500;
+}
+.smiley {
+    padding:0px;
+    margin: 11px;
+}
+nav {
+    font-size: x-large;
+    color: red;
 }
