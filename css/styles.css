@@ -1,26 +1,19 @@
 body {
-    background-color:rgb(145, 143, 143);
-}
-.top-section {
-    background-color: rgb(109, 109, 109);
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2020/05/02/morgan-codes-wallpaper.png) ;
+    background-size: 100%;
 }
 h1 {
     padding: auto;
-    font-family: 'Afacad', sans-serif;
+    font-family: 'Barlow Condensed', sans-serif;
     color: rgb(0, 0, 0);
-    font-size: 200%;
+    font-size: 444%;
     font-style: normal;
-    text-shadow: rgb(255, 255, 255) 2px 2px;
 }
-.smiley {
-    padding:auto;
-    margin: auto;
-    font-size: 55%;
-    color: rgb(255, 238, 0);
-    text-shadow: rgb(0, 17, 255) 1px 2px;
+.laptop {
+    font-size: xx-large;
 }
 .nav-container {
-    background-color: rgb(255, 255, 255);
+    background-color: gold;
 }
 .navi {
     font-style: normal;
@@ -28,20 +21,28 @@ h1 {
 
 }
 .homebutt {
+    color: rgb(255, 255, 255);
     font-style: normal;
-    font-size:300%;
+
     
 }
 .googlebutt {
+    color: rgb(255, 255, 255);
     font-style:normal;
-    font-size: 300%
+
 }
 .navbar-toggler-icon {
-    background-color: rgb(112, 125, 182);
+    background-color: rgb(167, 167, 167);
 }
-.navbar-toggler {
-    background-color: rgb(192, 208, 221);
+.free-website {
+    color: rgb(255, 255, 255);
+    font-size: 500%;
 }
-.butt {
-    background-color: transparent;
-  }
+.more-info-butt {
+    color: black;
+    font-size: 500%;
+    
+}
+.highlighter {
+    color: yellow;
+}
