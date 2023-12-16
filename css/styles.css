@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://free4kwallpapers.com/uploads/originals/2020/05/02/morgan-codes-wallpaper.png) ;
+    background-color: black ;
     background-size: 100%;
 }
 h1 {
@@ -21,13 +21,13 @@ h1 {
 
 }
 .homebutt {
-    color: rgb(255, 255, 255);
+    color: rgb(96, 96, 96);
     font-style: normal;
 
     
 }
 .googlebutt {
-    color: rgb(255, 255, 255);
+    color: rgb(96, 96, 96);
     font-style:normal;
 
 }
@@ -39,8 +39,9 @@ h1 {
     font-size: 500%;
 }
 .more-info-butt {
-    color: black;
+    color: gold;
     font-size: 500%;
+    text-shadow: black 4px 4px
     
 }
 .highlighter {
