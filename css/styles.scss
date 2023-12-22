@@ -1,105 +1,13 @@
-$color-background: rgb(247, 151, 107);
-body {
-    background-color: $color-background;
-    background-size: 100%;
-}
-h1 {
-    padding: auto;
-    font-family: 'Barlow Condensed', sans-serif;
-    color: rgb(0, 0, 0);
-    font-size: 444%;
-    font-style: normal;
-}
-.laptop {
-    font-size: 222%;
-}
-.nav-container {
-    background-color: gold;
-}
-.navi {
-    font-style: normal;
-    color: bisque;
-
-}
-
-.navbar-toggler-icon {
-    background-color: rgb(167, 167, 167);
-}
-
-
-
-.html {
-    margin-top: 5%;
-    margin-right: 1%;
-    color: gold;
-}
-
-.promo-p {
-    font-size: 500%;
-    color: aliceblue;
-    font-family: 'Poppins', sans-serif;
-}
-
-.about-title {
-    color: white;
-    font-size: 333%;
-    font-family: 'Barlow Condensed', sans-serif;
-}
-.about-par {
-    color: white;
-    font-size: 200%;
-    margin-top: -20%;
-    font-family: 'Barlow Condensed', sans-serif;;
-}
-
-.education {
-    font-size: 150%;
-
-    color: white;
-}
-
-.job-table {
-    margin-left: 18%;
-}
-.robotics {
-    color: gold;
-    font-family: 'Josefin Sans', sans-serif;
-}
-.robotics-row {
-    margin-top: -17%;
-    margin-right:1%;
-    font-family: 'Josefin Sans', sans-serif;
-}
-.champ {
-    color: aliceblue;
-    font-size: 190% ;
-    font-family: 'Josefin Sans', sans-serif;
-}
-.software {
-    margin-top:-3%;
-    color:gold;
-}
-.photoshop {
-    margin-top: -2%
-}
-.harmony {
-    margin-top: -35%;
-    margin-left: 7%;
-}
-.vegas {
-    margin-top: -27%;
-    margin-left: 1%;
-}
-.ae {
-    margin-top: -35%;
-
-    margin-left: 2%;
-}
-.soft-span {
-    color: white;
-    font-size:x-large
-}
-
+$color-background: rgb(245, 185, 158);
+$color-gold: gold;
+$color-yellow: yellow;
+$color-white: white;
+$color-black: black;
+$color-gray: rgb(167, 167, 167);
+$color-red: red;
 @import 'colors';
-@import 'freewebsitetext';
+@import 'elements';
+@import 'fonts';
 @import 'buttons';
+@import 'icons';
+@import 'softwarelogos';
