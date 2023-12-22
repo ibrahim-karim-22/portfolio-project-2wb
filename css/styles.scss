@@ -1,5 +1,6 @@
+$color-background: rgb(247, 151, 107);
 body {
-    background-color: black ;
+    background-color: $color-background;
     background-size: 100%;
 }
 h1 {
@@ -20,62 +21,19 @@ h1 {
     color: bisque;
 
 }
-.home-butt {
-    color: #000000;
-    font-style: normal;
 
-    
-}
-.about-butt {
-    color: #000000;
-    font-style:normal;
-
-}
 .navbar-toggler-icon {
     background-color: rgb(167, 167, 167);
 }
-.free-website-1 {
-    
-    font-size: 400%;
-    font-family: 'Barlow Condensed', sans-serif;
-}
-.free-website-2 {
-    color: rgb(255, 255, 255);
-    font-size: 300%;
-    font-family: 'Barlow Condensed', sans-serif;
-}
-.free-website-3 {
-    color: rgb(255, 255, 255);
-    font-size: 200%;
-    font-family: 'Barlow Condensed', sans-serif;
-}
-.claim-butt {
-    color: gold;
-    font-size: 300%;
-    text-shadow: black 4px 4px;
-    margin-right: 0%
-    
-}
-.highlighter {
-    color: yellow;
-}
+
+
+
 .html {
     margin-top: 5%;
     margin-right: 1%;
     color: gold;
 }
-.insta-butt {
-    color:crimson;
-    font-size: 190%;
 
-    margin-left: 50%;
-   
-}
-.YT-butt {
-    color: red; 
-    margin-right: 50%;
-    font-size: 190%;
-}
 .promo-p {
     font-size: 500%;
     color: aliceblue;
@@ -142,3 +100,6 @@ h1 {
     font-size:x-large
 }
 
+@import 'colors';
+@import 'freewebsitetext';
+@import 'buttons';
