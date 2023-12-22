@@ -5,22 +5,25 @@
 }
 .offer {
     color: $color-yellow;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 .free-website-1 {
     
-    font-size: 400%;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 222%;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 .free-website-2 {
     color: $color-white;
-    font-size: 300%;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 333%;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: -2%
 }
 .free-website-3 {
     color: $color-white;
-    font-size: 200%;
-    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 100%;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-top: -2%;
 }
 .robotics {
     color: $color-gold;
