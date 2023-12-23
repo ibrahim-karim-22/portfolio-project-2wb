@@ -3,3 +3,53 @@
     background-size: 150% 300% contain;
     margin-top: 2%;
 }
+.fieldset-robotics {
+    background-image: url(https://images.hdqwalls.com/wallpapers/timelapse.jpg);
+    background-size: cover;
+    margin-top: 5%;
+}
+@media (min-width: 100px) and (max-width: 480px) {
+    .robotics-picture {
+        width: 111%;
+}
+}
+@media (min-width: 480px) and (max-width: 600px) {
+    .robotics-picture {
+         width: 111%;
+}
+}
+@media (min-width: 600px) and (max-width: 768px) {
+    .robotics-picture {
+         width: 111%;
+}
+}
+@media (min-width: 768px) and (max-width: 900px) {
+    .robotics-picture {
+         width: 108%;
+}
+}
+@media (min-width: 900px) and (max-width: 1024px) {
+    .robotics-picture {
+         width: 108%;
+}
+}
+.software-fieldset {
+    margin-top: 5%;
+}
+.soft-png-photoshop { 
+    margin-top: -1%;
+}
+.harmony { 
+    margin-top:-52%;
+    margin-left: 13%;
+}
+.vegas {
+    margin-top: -42%;
+    margin-left: 2%;
+}
+.ae {
+    margin-top: -50%;
+    margin-left: 5%;
+}
+ 
+

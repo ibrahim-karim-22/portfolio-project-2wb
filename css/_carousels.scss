@@ -1,3 +1,93 @@
-.carousel-item-position { 
-    margin-left:36%;
+@media (min-width: 100px) and (max-width: 480px) {
+.badge-carousel {
+    width: 99%;
+    margin: auto;
+    margin-top: -12%;
+    scroll-behavior: smooth;
 }
+}
+@media (min-width: 100px) and (max-width: 480px) {
+.image {
+    width: 77%;
+    margin: auto;
+    scroll-behavior: smooth;
+}
+}
+@media (min-width: 480px) and (max-width: 600px) {
+.badge-carousel {
+    width: 122%;
+    margin: auto;
+    margin-top: -7%;
+    scroll-behavior: smooth;
+}
+}
+@media (min-width: 480px) and (max-width: 600px) {
+.image {
+    width: 99%;
+    margin: auto;
+    scroll-behavior: smooth;
+}
+}
+@media (min-width: 600px) and (max-width: 768px) {
+    .badge-carousel {
+        width: 144%;
+        margin: auto;
+        margin-top: -7%;
+        scroll-behavior: smooth;
+}
+}
+@media (min-width: 600px) and (max-width: 768px) {
+    .image {
+        width: 100%;
+        margin: auto;
+        scroll-behavior: smooth;
+}
+}
+@media (min-width: 768px) and (max-width: 900px) {
+    .badge-carousel {
+        width: 100%;
+        margin: auto;
+        margin-top: -7%;
+        scroll-behavior: smooth;
+}
+}
+@media (min-width: 768px) and (max-width: 900px) {
+    .image {
+        width: 100%;
+        margin: auto;
+        scroll-behavior: smooth;
+}
+}
+@media (min-width: 900px) and (max-width: 1024px) {
+    .badge-carousel {
+        width: 100%;
+        margin: auto;
+        margin-top: -5%;
+        scroll-behavior: smooth;
+}
+}
+@media (min-width: 900px) and (max-width: 1024px) {
+    .image {
+        width: 100%;
+        margin: auto;
+        scroll-behavior: smooth;
+}
+}
+@media (min-width: 1024px) and (max-width: 1200px) {
+    .badge-carousel {
+        width: 100%;
+        margin: auto;
+        margin-top: -5%;
+        scroll-behavior: smooth;
+}
+}
+@media (min-width: 1024px) and (max-width: 4600px) {
+    .image {
+        width: 55%;
+        margin: auto;
+        scroll-behavior: smooth;
+}
+}
+    
+    
+    
